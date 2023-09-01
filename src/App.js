@@ -6,6 +6,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h3>aws amplify project</h3>
+        <h3>aws amplify project</h3>
+        <h3>aws amplify project</h3>
+        <h3>aws amplify project</h3>
+        <h3>aws amplify project</h3>
+        <h3>aws amplify project</h3>
+        <h3>aws amplify project</h3>
       </header>
     </div>
   );
